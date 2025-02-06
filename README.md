@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I'm <a >Juana!</a> 👋</h1>
+</div>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/jdtGiFS"  ><a href="//imgur.com/a/jdtGiFS">Installing wallpaper on a PC desktop from 1987</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jdtGiFS"  ><a href="//imgur.com/a/jdtGiFS">Installing wallpaper on a PC desktop from 1987</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<!--
-**juana-gamba-DAPT/juana-gamba-DAPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- ⭐ Life explorer ⭐ 
+- 📲 Data Lover
+- 🌱Industrial Engineer who is learning Data Science 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
