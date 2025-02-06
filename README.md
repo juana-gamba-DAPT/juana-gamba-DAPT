@@ -3,9 +3,9 @@
 </div>
 
 
-
+<div align="center">
 <img src="https://imgur.com/hyEDKRa.png">
-
+</div>
 
 
 ## Sobre mi
