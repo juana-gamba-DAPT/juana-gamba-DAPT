@@ -2,10 +2,9 @@
 <h1 align="center">Hello, I'm <a >Juana!</a> 👋</h1>
 </div>
 
-
-<div align="center">
-<img src="[https://i.imgur.com/egXCTUn.jpeg">
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/egXCTUn.jpeg" alt="Header image" width="400"/>
+</p>
 
 
 ## Sobre mi
