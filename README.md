@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://imgur.com/a/IQjfevN">
+<img src="[https://i.imgur.com/egXCTUn.jpeg">
 </div>
 
 
