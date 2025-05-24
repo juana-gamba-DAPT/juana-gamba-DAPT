@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/egXCTUn.jpeg" alt="Header image" width="400"/>
+  <img src="https://i.imgur.com/hRURmOU.jpeg" alt="Header image" width="400"/>
 </p>
 
 
